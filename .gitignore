@@ -1,8 +1,10 @@
 # Ignore faiss_index directory
 /faiss_index/*
+!/faiss_index/.gitkeep
 
 # Ignore docs directory
 /docs/*
+!/docs/.gitkeep
 
 # Ignore Python cache files
 __pycache__/
