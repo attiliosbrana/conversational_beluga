@@ -1,0 +1,8 @@
+# Ignore faiss_index directory
+/faiss_index/*
+
+# Ignore docs directory
+/docs/*
+
+# Ignore Python cache files
+__pycache__/
