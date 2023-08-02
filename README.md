@@ -1,6 +1,6 @@
 # Conversational Search App (GPU required)
 
-<img src="stablebeluga.png" alt="Stable Beluga" style="max-width: 100%; max-height: 100px;">
+<img src="stablebeluga.png">
 
 This repo contains code to build a conversational search application using LangChain and Streamlit. The application allows the user to have a conversational dialog with an AI assistant to find answers to their questions from a document collection.
 
