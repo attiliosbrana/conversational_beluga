@@ -1,4 +1,4 @@
-# Conversational Search App (GPU required)
+# Conversational BELUGA: Assistance with Document Search App (GPU required)
 
 <img src="stablebeluga.png">
 
