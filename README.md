@@ -24,6 +24,7 @@ To run the application yourself, follow these steps:
     
     ```bash
     conda env create -f environment.yml
+    conda activate hf
     ```
     
 3. Add the files in .txt or .html format to the ./docs folder so that the vector db works.
